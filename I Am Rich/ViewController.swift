@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  I Am Rich
 //
-//  Created by Дмитрий Шибанов on 13/12/2019.
+//  Created by Dmitry Shibanov on 13/12/2019.
 //  Copyright © 2019 Dmitry Shibanov. All rights reserved.
 //
 
